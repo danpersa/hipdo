@@ -63,6 +63,4 @@
      :compiler     {:output-to     "resources/public/js/compiled/test.js"
                     :main          hipdo.runner
                     :optimizations :none}}
-    ]}
-
-  )
+    ]})
